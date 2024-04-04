@@ -1,6 +1,6 @@
 ```
-                                                        Name: Roshan G 
-                                                        Reg no: 212223040176
+                                                    Name: Roshan G
+                                                    Reg no: 212223040176
 ```
 # EX-4:Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
